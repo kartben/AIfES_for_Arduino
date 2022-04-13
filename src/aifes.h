@@ -24,14 +24,13 @@
  * \details
  */
 
-#ifdef __cplusplus
-extern "C" {
-#endif
-
-
 // Include AIfES core headers
 #include "core/aifes_math.h"
 #include "core/aifes_core.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 // Include the datatypes
 #include "basic/base/aimath/aimath_f32.h"
